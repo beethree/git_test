@@ -1,3 +1,3 @@
 #git_test
-My millionth github repo
+My github repo
 Hello Odin!
